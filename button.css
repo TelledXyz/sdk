@@ -1,0 +1,13 @@
+.telled-btn {
+  padding: 10px 20px;
+  background: #6366f1;
+  border: none;
+  border-radius: 8px;
+  color: white;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+.telled-btn:hover {
+  background: #4f46e5;
+}
